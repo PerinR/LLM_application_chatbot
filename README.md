@@ -36,3 +36,11 @@ Run the application:
 flask run
 Open http://127.0.0.1:5000 in your browser to start chatting!
 
+🧠 Key Learnings
+Managed Large Language Model (LLM) context windows and history.
+
+Debugged cross-origin (CORS) and 500 Internal Server Errors.
+
+Implemented professional Git version control and GitHub workflows.
+
+Created with ❤️ by JC (part of IBM Specialization course)
